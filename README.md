@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##### 세종대학교 컴퓨터공학과 18학번 임가영입니다.
+
+##### - 게임 개발 🐈
+##### - 딥러닝 스터디 🦔
+##### - 알고리즘 스터디 🐥
