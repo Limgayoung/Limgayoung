@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 #### - 게임 개발 🐈
 #### - 딥러닝 스터디 🦔
 #### - 알고리즘 스터디 🐥
+
+https://incongruous-cheshire-d58.notion.site/83e9a2d3006e4cf4adfd44d3a9026526
