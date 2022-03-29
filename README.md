@@ -21,4 +21,8 @@ Here are some ideas to get you started:
 #### - 알고리즘 스터디 🐥
 #### - 스프링 스터디 🐳
 
+My notion
 https://incongruous-cheshire-d58.notion.site/83e9a2d3006e4cf4adfd44d3a9026526
+
+My tistory
+https://hihinote.tistory.com/
