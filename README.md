@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 #### 세종대학교 컴퓨터공학과 18학번 임가영입니다.
 
-#### - 알고리즘 스터디 🐥
-#### - 스프링 스터디 🐳
 
 My notion
-https://incongruous-cheshire-d58.notion.site/83e9a2d3006e4cf4adfd44d3a9026526
+https://incongruous-cheshire-d58.notion.site/9c495199a9294fd08aea83cd2b1c77be
 
 My tistory
 https://hihinote.tistory.com/
