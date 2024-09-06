@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 세종대학교 컴퓨터공학과 18학번 임가영입니다.
+#### 18학번 임가영입니다.
 
 
 My notion
