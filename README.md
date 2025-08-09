@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 18학번 임가영입니다.
+#### 임가영입니다.
 
 
 My notion
